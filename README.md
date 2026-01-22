@@ -7,16 +7,15 @@ A **Sorting Algorithm Visualizer** built using **C++ and SFML**, designed to vis
 ## 📸 Screenshots
 
 ### 🔹 Main Menu & Unsorted Array
-![Sorting Visualizer Main Screen](![main](https://github.com/user-attachments/assets/ea2c09ef-fc94-4d39-ab44-2acd4d696ff6)
+![Sorting Visualizer Main Screen](![main]("C:\Users\tuf gaming\OneDrive\Pictures\main.jpeg")
 )
 
 ### 🔹 Sorting in Progress
-![Sorting in Progress](![processing](https://github.com/user-attachments/assets/9a039a36-50a4-4ca9-a1e6-0f397125d567))
-![Sorting in Progress](![processing2](https://github.com/user-attachments/assets/c32004e3-daa0-4eb0-b66f-ea7e34deac75))
-
+![Sorting in Progress](![processing]("C:\Users\tuf gaming\OneDrive\Pictures\processing.jpeg"))
+![Sorting in Progress](![processing2]("C:\Users\tuf gaming\OneDrive\Pictures\processing2.jpeg"))
 
 ### 🔹 Sorted Output & Time Display
-![Sorting Completed](![completed](https://github.com/user-attachments/assets/9bc6a870-b313-4afb-92d7-82741cb645ba))
+![Sorting Completed](![completed]("C:\Users\tuf gaming\OneDrive\Pictures\completed.jpeg"))
 
 > 📌 Make sure the image files are added to the repository inside a `screenshots/` folder.
 
